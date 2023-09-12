@@ -1,2 +1,1 @@
-# BlueChipSPOC
-Chats and metric practice Website
+# BlueChips_SPOs

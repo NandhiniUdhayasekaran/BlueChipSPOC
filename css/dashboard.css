@@ -1,0 +1,30 @@
+.globalTlt {
+    color: white;
+    font-size: initial;
+}
+
+.globalTlt .target {
+    font-size: 22px;
+    font-weight: 500;
+    text-align: end;
+}
+
+.globalTlt .task {
+    text-align: -webkit-center;
+}
+
+.globalTlt .task-trgt {
+    font-size: small;
+}
+
+.globalTlt .iconsize {
+    font-size: xx-large;
+}
+
+.globalTlt table {
+    margin-left: 10%;
+}
+
+.globalTlt .targeticon {
+    padding-right: 15px;
+}
